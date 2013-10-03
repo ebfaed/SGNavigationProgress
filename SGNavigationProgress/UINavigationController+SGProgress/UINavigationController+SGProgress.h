@@ -29,4 +29,7 @@
 
 
 - (void)finishSGProgress;
+
+@property (nonatomic, assign)	float	SGProgressBarHeight;
+
 @end
